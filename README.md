@@ -75,7 +75,6 @@ Once you have the above steps running:
 - **scripts/**: Contains the deployment script for the smart contract.
 - **pages/**: Contains the Next.js pages for the frontend.
 - **public/**: Contains static assets for the frontend.
-- **styles/**: Contains CSS files for styling the frontend.
 
 ## Useful Commands
 
